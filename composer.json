@@ -1,0 +1,14 @@
+{
+    "name": "joker/composer-demo",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "joker5487",
+            "email": "joker.study@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
