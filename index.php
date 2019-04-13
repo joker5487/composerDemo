@@ -7,3 +7,4 @@
  */
 echo 'This is test index page !';
 echo 'This is test index page v1.0.1 update!';
+echo 'This is test index page v1.0.1 - 1 update!';
