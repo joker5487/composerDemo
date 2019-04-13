@@ -6,3 +6,4 @@
  * Time: 13:31
  */
 echo 'This is test index page !';
+echo 'This is test index page v1.0.1 update!';
