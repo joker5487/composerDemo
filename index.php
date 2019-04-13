@@ -10,3 +10,4 @@ echo 'This is test index page v1.0.1 update!';
 echo 'This is test index page v1.0.1 - 1 update!';
 echo 'This is test index page v1.0.1 - 2 update!';
 echo 'This is test index page v1.0.1 - 3 update!';
+echo 'This is test index page v1.0.1 - 4 update!';
